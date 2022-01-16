@@ -1,6 +1,8 @@
-# Teste.Inicial
+/*
+Teste.Inicial
 
 Alguns comandos HTML:
-window.alert() // mensagem
-window.confirm() // dá a opção de confirmar algo ou cancelar
-window.prompt() // Dá ao usuário a opção de caixa de texto para Resposta.
+window.alert() -> Mostra ao usuário uma caixa de mensagem
+window.confirm() -> Dá a opção de confirmar ou cancelar algo
+window.prompt() -> Dá ao usuário a opção de caixa de texto para Resposta.
+*\
